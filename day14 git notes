@@ -1,0 +1,12 @@
+## Day 14 – Git & GitHub Notes
+
+- **Git** is a version control system used on our local machine.
+- **GitHub** is a website to host Git repositories online.
+- Important terms:
+  - `commit` → save a snapshot of changes
+  - `repository` → project folder tracked by Git
+  - `README.md` → description file for the project
+- On GitHub website we can:
+  - Create or edit files
+  - Write commit messages
+  - See commit history
