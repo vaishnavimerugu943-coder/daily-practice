@@ -1,0 +1,16 @@
+## Day 19 – Common String Methods in Java
+
+- `length()` → returns number of characters.
+- `toUpperCase()` / `toLowerCase()`
+- `charAt(index)` → returns character at given position.
+- `equals()` → compares two strings.
+- `contains()` → checks if a substring exists.
+- `substring(start, end)` → part of string.
+
+Example:
+```java
+String s = "GitHub";
+System.out.println(s.length());        // 6
+System.out.println(s.toUpperCase());   // GITHUB
+System.out.println(s.charAt(0));       // G
+System.out.println(s.contains("Hub")); // true
