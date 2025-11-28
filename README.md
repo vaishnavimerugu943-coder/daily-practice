@@ -27,6 +27,6 @@
 - Day 20: Program to find sum of digits
 - Day 21: Palindrome string checker
 - Day 22: Updated README with Week 3 summary
--
+
 
 
