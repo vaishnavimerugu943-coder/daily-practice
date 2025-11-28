@@ -7,4 +7,4 @@
 - Day 4: Added notes on if-else and loops
 - Day 5: Practiced for-loop (1 to 10)
 - Day 6: Updated README with weekly summary
--
+
