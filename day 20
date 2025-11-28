@@ -1,0 +1,22 @@
+
+## ✅ Day 20 – Sum of digits
+
+**File name:** `day20-sum-of-digits.java`
+
+```java
+public class Day20SumOfDigits {
+    public static void main(String[] args) {
+        int n = 12345;
+        int sum = 0;
+
+        int temp = n;
+        while (temp > 0) {
+            int digit = temp % 10;
+            sum += digit;
+            temp /= 10;
+        }
+
+        System.out.println("Number: " + n);
+        System.out.println("Sum of digits = " + sum);
+    }
+}
