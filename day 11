@@ -1,0 +1,9 @@
+public class Day11Strings {
+    public static void main(String[] args) {
+        String name = "Vaishnavi";
+        System.out.println("Original: " + name);
+        System.out.println("Length: " + name.length());
+        System.out.println("Uppercase: " + name.toUpperCase());
+        System.out.println("First 3 letters: " + name.substring(0, 3));
+    }
+}
