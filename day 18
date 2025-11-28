@@ -1,0 +1,22 @@
+
+
+## ✅ Day 18 – Simple login check (if-else)
+
+**File name:** `day18-login-check.java`
+
+```java
+public class Day18LoginCheck {
+    public static void main(String[] args) {
+        String correctUser = "admin";
+        String correctPass = "1234";
+
+        String inputUser = "admin";
+        String inputPass = "1234";
+
+        if (inputUser.equals(correctUser) && inputPass.equals(correctPass)) {
+            System.out.println("Login successful");
+        } else {
+            System.out.println("Invalid username or password");
+        }
+    }
+}
