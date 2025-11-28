@@ -1,0 +1,21 @@
+## Day 17 – Classes and Objects
+
+- A **class** is a blueprint/template.
+- An **object** is an instance of a class.
+
+Example:
+```java
+class Car {
+    String name;
+    void start() {
+        System.out.println("Car started");
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Car c = new Car();  // object
+        c.name = "BMW";
+        c.start();
+    }
+}
