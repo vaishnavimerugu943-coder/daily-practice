@@ -1,0 +1,10 @@
+## Day 4 – If-Else and Loops Notes
+
+- `if-else` is used for decision making.
+- Syntax:
+  ```java
+  if (condition) {
+      // true block
+  } else {
+      // false block
+  }
