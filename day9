@@ -1,0 +1,7 @@
+## Day 9 – Arrays and Methods
+
+### Arrays
+- Used to store multiple values of same type.
+- Example:
+  ```java
+  int[] nums = {1, 2, 3};
